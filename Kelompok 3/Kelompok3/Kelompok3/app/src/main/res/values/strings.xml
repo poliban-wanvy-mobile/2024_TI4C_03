@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">MathQuiz</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Login</string>
+    <string name="correct">Correct!</string>
+    <string name="enter_answer">Please enter an answer.</string>
+    <string name="question_template">%1$d %2$s %3$d = ?</string>
+    <string name="wrong_answer_template">Wrong! The correct answer is %1$d.</string>
+    <string-array name="operations">
+        <item>Pertambahan</item>
+        <item>Pengurangan</item>
+        <item>Perkalian</item>
+        <item>Pembagian</item>
+    </string-array>
+    <string name="profile">My Profile</string>
+    <string name="image">My Image</string>
+    <string name="clear">C</string>
+    <string name="next">Selanjutnya</string>
+    <string name="back">Kembali</string>
+    <string name="about_us">Tentang Kami</string>
+    <string name="logout">Logout</string>
+    <string name="nama_1">Arya Ramadhan Asshidiq</string>
+    <string name="nim_1">C030322072</string>
+    <string name="nama_2">Muhammad Nurrahman</string>
+    <string name="nim_2">C030322090</string>
+    <string name="nama_3">Novia Ayu Fitriana</string>
+    <string name="nim_3">C030322096</string>
+    <string name="nama_4">Maulinda Nur Saputri</string>
+    <string name="nim_4">C030322082</string>
+    <string name="nama_5">Eugene Ray Rahman</string>
+    <string name="nim_5">C030322075</string>
+</resources>
